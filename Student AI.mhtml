@@ -1,0 +1,81 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/kaviy/OneDrive/Documents/of.html
+Subject: Student AI Chatbot
+Date: Thu, 12 Mar 2026 20:19:52 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--HcEzChPRRmAyvstUjJKcqsxfCbr9rt8VMnSZA6mOhH----"
+
+
+------MultipartBoundary--HcEzChPRRmAyvstUjJKcqsxfCbr9rt8VMnSZA6mOhH----
+Content-Type: text/html
+Content-ID: <frame-453C7E3B09487E3D6533426781EF1FB7@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/kaviy/OneDrive/Documents/of.html
+
+<!DOCTYPE html><!-- saved from url=3D(0062)file:///C:/Users/kaviy/OneDrive/=
+Documents/chatboxai/index.html --><html><head><meta http-equiv=3D"Content-T=
+ype" content=3D"text/html; charset=3Dwindows-1252"><link rel=3D"stylesheet"=
+ type=3D"text/css" href=3D"cid:css-e6c0756f-f08e-4513-8e7a-d2743558986e@mht=
+ml.blink" />
+<title>Student AI Chatbot</title>
+
+
+</head>
+
+<body>
+
+<div class=3D"chat-container">
+
+<h2>Student AI Chatbot</h2>
+
+<div id=3D"chatbox"><div class=3D"user"><b>You:</b> when can i apply for in=
+ternship?</div><div class=3D"bot"><b>Bot:</b> Students can apply for intern=
+ships from the 2nd year.</div></div>
+
+<div class=3D"input-area">
+<input type=3D"text" id=3D"userInput" placeholder=3D"Ask about courses, exa=
+ms, placements...">
+<button>Send</button>
+</div>
+
+</div>
+
+
+
+
+</body></html>
+------MultipartBoundary--HcEzChPRRmAyvstUjJKcqsxfCbr9rt8VMnSZA6mOhH----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-e6c0756f-f08e-4513-8e7a-d2743558986e@mhtml.blink
+
+@charset "windows-1252";
+
+body { font-family: Arial; background: linear-gradient(135deg, rgb(106, 17,=
+ 203), rgb(37, 117, 252)); display: flex; justify-content: center; align-it=
+ems: center; height: 100vh; margin: 0px; }
+
+.chat-container { width: 420px; background: white; border-radius: 10px; box=
+-shadow: rgba(0, 0, 0, 0.2) 0px 0px 15px; padding: 20px; }
+
+h2 { text-align: center; margin-bottom: 15px; }
+
+#chatbox { height: 300px; border: 1px solid rgb(221, 221, 221); overflow-y:=
+ auto; padding: 10px; margin-bottom: 10px; border-radius: 5px; }
+
+.user { color: rgb(0, 123, 255); margin: 5px 0px; }
+
+.bot { color: rgb(40, 167, 69); margin: 5px 0px; }
+
+.input-area { display: flex; }
+
+input { flex: 1 1 0%; padding: 8px; border: 1px solid rgb(204, 204, 204); b=
+order-radius: 5px; }
+
+button { padding: 8px 15px; margin-left: 5px; background: rgb(0, 123, 255);=
+ color: white; border: none; border-radius: 5px; cursor: pointer; }
+
+button:hover { background: rgb(0, 86, 179); }
+------MultipartBoundary--HcEzChPRRmAyvstUjJKcqsxfCbr9rt8VMnSZA6mOhH------
